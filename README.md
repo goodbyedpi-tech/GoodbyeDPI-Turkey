@@ -94,7 +94,7 @@ Eğer bu dosyaları silmeye çalıştığınızda dosya kullanımda hatası alı
 > [!NOTE]
 > WinDivert dosyaları da açık kaynak kodludur. Buradan WinDivert kütüphanesinin açık kaynak kodlarına ulaşabilirsiniz: **[WinDivert 2.2: Windows Packet Divert](https://github.com/basil00/WinDivert)**
 
-## SuperOnline Alternatif Yöntemler
+## SuperOnline Alternatif Yöntemler.
 
 Eğer SuperOnline Fiber kullanıyorsanız ve "Discord update failed - retrying in ** seconds" hatası alıyorsanız:
 
